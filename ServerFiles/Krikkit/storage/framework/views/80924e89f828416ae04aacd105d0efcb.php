@@ -1,0 +1,3 @@
+<svg aria-hidden="true" class="shrink-0 size-[18px]" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5 3 12m0 0 7.5-7.5M3 12h18"/>
+</svg><?php /**PATH C:\Users\Aamir Khan\Downloads\krikkit-120\codecanyon-65055559-krikkit-ai-website-builder-saas-platform-for-promptbased-site-generation\ServerFiles\Krikkit\storage\framework\views/8de239b50b973b05ad9f1c7997feed48.blade.php ENDPATH**/ ?>
